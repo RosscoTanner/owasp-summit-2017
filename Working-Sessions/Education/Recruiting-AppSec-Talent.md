@@ -9,7 +9,7 @@ status       : missing Outcomes; missing Working materials
 when-day     : Tue
 when-time    : PM-1
 location     : Room-4
-participants : Ade Yoseman Putra
+participants : Ade Yoseman Putra, Ross Tanner 
 organizers   : Avi Douglen
 ---
 
