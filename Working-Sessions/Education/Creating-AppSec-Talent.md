@@ -10,7 +10,7 @@ status       : missing Outcomes; missing Working material
 when-day     : Tue
 when-time    : AM-1
 location     : Room-4
-participants :
+participants : Ross Tanner
 organizers   :
 ---
 
